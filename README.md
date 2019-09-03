@@ -1,20 +1,20 @@
-## Mortgage-Cloud-App
+# Mortgage-Cloud-App
 
 **The application consists of 4 portals namely Mortgage Broker , Real estate, Insurance and Employer which are built on three-tier architectural model.**
 
-# MBR
+### MBR
 MBR portal facilitates an interface for the customers to file a mortgage application and to keep track of the status of their applications. 
 
-# Employer 
+### Employer 
 Employer portal contains key information about the employee like salary, length of employment which is sent via webhooks to other apps.
 
-# Real Estate 
+### Real Estate 
 Real Estate evaluate the value of the house.
 
-# Insurance 
+### Insurance 
 Insurane portal mainly focuses to find the deductable amount/Insurance Amount.
 
-# Frameworks/Tools
+### Frameworks/Tools
 
 - MYSQL Workbench – Sails JS is an MVC based framework which is built on top of another framework called Node JS. Node JS is one of the most widely used server-side web development framework which is built on top of V8 engine. In this project, I’ve used Sails JS to create a webservice (REST API) that can be accessed by any client using XMLHTTP request.
 
